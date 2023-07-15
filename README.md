@@ -1,5 +1,5 @@
 # Project Descriptions
-## Project Name: Login - Heart Disease Predictor
+## Project Name: Heart Disease Predictor
 
 **Short Descriptions :** In today’s world, heart disease, cardiac arrest or heart attack is considered to be one of the leading causes of death.  In developing countries like Bangladesh, the risk of death due to heart disease is about 14.31%. In the last 10 years, the death rate due to heart attacks has increased 35 times for men and 48 times for women in Bangladesh.
 With the help of machine learning algorithms, in this project I have tried to predict heart disease of a particular person based on some important data. For this purpose I used Annual CDC survey data of 400k adults related to their health status.
